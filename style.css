@@ -1,0 +1,74 @@
+body{
+    background-color: #2f3035;
+    background-image: url(logos/lidye-1Shk_PkNkNw-unsplash.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header{
+    height: 118px;
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(173, 173, 173, 0.425);
+    height: 30px;
+    text-align: center;
+    padding-top: 12px;
+}
+
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+footer{
+    background-color: rgba(168, 166, 166, 0.404);
+    height: 40px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+h1{
+    font-size: 84px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: rgb(151, 232, 238);
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 
+    10px;
+}
+
+.map {
+    padding-bottom: 80px;
+}
+
